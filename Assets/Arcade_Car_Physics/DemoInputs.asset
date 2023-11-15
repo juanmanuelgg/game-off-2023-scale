@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eadf1e64da3e5423685f58192a60719d, type: 3}
   m_Name: DemoInputs
   m_EditorClassIdentifier: 
-  ThrottleInput: Throttle
-  BrakeInput: Brake
-  TurnInput: Steering
+  ThrottleInput: Vertical
+  BrakeInput: Fire3
+  TurnInput: Horizontal
   JumpInput: Jump
-  DriftInput: Drift
-  BoostInput: Boost
+  DriftInput: Fire1
+  BoostInput: Fire2
   WheelieInput: Boost
   StopieInput: Brake
